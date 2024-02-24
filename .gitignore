@@ -3,3 +3,5 @@
 config.env
 
 import-dev-data.js
+
+.gitignore
