@@ -2,6 +2,9 @@
   "name": "natours",
   "version": "1.0.0",
   "description": "NodeJs Based Platform",
+  "engines": {
+    "node": ">=8.3.0"
+  },
   "main": "app.js",
   "scripts": {
     "start": "nodemon --trace-warnings server.js",
