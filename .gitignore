@@ -1,7 +1,6 @@
 /node_modules
-# Ignore config files
-config.env
 
-import-dev-data.js
+dev-data/data/import-dev-data.js
 
 .gitignore
+config.env
