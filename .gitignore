@@ -1,2 +1,5 @@
 /node_modules
+# Ignore config files
 config.env
+
+import-dev-data.js
